@@ -1,5 +1,6 @@
 ;; A small self applicable scheme->llvm compiler.
 ;; ,  Tobias Nurmiranta
+;; LLVM version that uses the stack for temporaries.
 ;;
 ;; -- To Use It --
 ;; Reads scheme-code from standard input.
